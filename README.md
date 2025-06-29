@@ -121,3 +121,7 @@ Potential Next Steps:
 - Extend to polynomial addition or sparse matrix storage.  
 
 This program is educational, practical, and scalable, making it a valuable tool for students, programmers, and engineers.
+
+## Output
+
+![Image](https://github.com/user-attachments/assets/ae76fa1e-2ca7-45f7-add6-db88d5dbbd0c)
