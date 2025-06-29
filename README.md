@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# Singly Linked List Implementation  
+# Singly Linked List Implementation in C  
 
 ## Introduction  
 This program implements a singly linked list in the C programming language, providing essential operations such as insertion, deletion, and traversal. A linked list is a fundamental linear data structure where elements are stored in nodes, each containing a data field and a pointer to the next node. Unlike arrays, linked lists allow dynamic memory allocation, making them efficient for insertions and deletions without requiring contiguous memory.  
